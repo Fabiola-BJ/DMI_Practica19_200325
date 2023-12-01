@@ -6,11 +6,11 @@
 
 
 ## Información General
-- **Creado por:** Gabriel Guzmán Garcia
+- **Creado por:** Fabiola Bautista Joaquín
 - **Asignatura:** Desarrollo Movil Integral
 - **Grado:** 10
 - **Grupo:** A
-- **Docente:** MTI. Marco Antonio Ramirez Hernandez
+- **Docente:** M.T.I. Marco Antonio Ramirez Hernandez
 
 # Desarrollo Backend del Videojuego Api Rest"
 El desarrollo de esta API comenzó instalando las dependencias esenciales para el proyecto mediante Node.js, utilizando las bibliotecas y herramientas como Express, Nodemon, Dotenv y Cors. Estas dependencias proporcionan un entorno robusto y eficiente para la creación de aplicaciones web en Node.js.
